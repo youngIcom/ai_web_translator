@@ -69,5 +69,5 @@ Cukup buka file `index.html` di browser Anda.
 
 ---
 
-> Dibuat dengan ❤️ oleh B7 Translator Team
+> Dibuat dengan ❤️ oleh Yesaya situmorang
 
