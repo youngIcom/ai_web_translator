@@ -15,8 +15,8 @@ B7 Translator adalah aplikasi web sederhana untuk menerjemahkan teks secara otom
 
 ### 1. Clone Repository
 ```
-git clone https://github.com/username/b7-translator.git
-cd b7-translator
+git clone https://github.com/youngIcom/ai_web_translator.git
+cd ai_web_translator
 ```
 
 ### 2. Buat & Aktifkan Virtual Environment (Opsional tapi disarankan)
